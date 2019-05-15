@@ -6,7 +6,7 @@ license: gnu-gpl-v3.0
 
 # Source Build Variables
 buildImageName: alpine
-buildImageVersion: 3
+buildImageVersion: '3'
 
 # Final Image Variables
 finalImageName: evernote-monitor
